@@ -6,7 +6,7 @@ export function Hader(props) {
     return (
         <>
             <nav className=' flex items-center justify-between w-[100%] md:w-[100%] text-[.6rem] md:text-[1rem] p-2 md:p-4'>
-                <div className='w-[50%] md:w-[40%]'>
+                <div className='w-[70%] md:w-[40%]'>
                     <ul className='flex items-center justify-evenly font-bold'>
                     <li className=' w-[.7rem] md:w-[1.5rem]'>
                     <img src={logo} alt='paypal_logo' />
