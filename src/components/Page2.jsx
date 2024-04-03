@@ -37,7 +37,7 @@ export function Page2(props) {
                 Accept credit and debit cards, digital wallets, PayPal, and 20+ local payment methods. All in a single integration.
             </p>
 
-            <h1 className='text-[.5rem] md:text-xl mt-1 md:mt-2 text-[#3C89BE] inline-flex items-end'>More about payment methods  &nbsp; < FaLongArrowAltRight /></h1>
+            <h1 className='text-[.5rem] md:text-xl mt-1 md:mt-2 text-[#3C89BE] inline-flex items-center'>More about payment methods  &nbsp; < FaLongArrowAltRight /></h1>
         </div>
 
         <div className='w-[50%] bg-gray-100 p-2 md:p-8'>
