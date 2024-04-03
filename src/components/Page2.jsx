@@ -40,12 +40,38 @@ export function Page2(props) {
             <h1 className='text-[.5rem] md:text-xl mt-1 md:mt-2 text-[#3C89BE] inline-flex items-end'>More about payment methods  &nbsp; < FaLongArrowAltRight /></h1>
         </div>
 
-
         <div className='w-[50%] bg-gray-100 p-2 md:p-8'>
             <div>
                 <img src={payment_img} alt="" />
             </div>
         </div>
+        </div>
+
+
+
+        <div className=' flex items-center justify-between md:p-8 p-1 w-[100%] text-wrap md:mt-4 mt-1'>
+            <div className='w-[25%] p-1 md:p-2'>
+                <h1 className='text-[.6rem] md:text-xl font-bold md:mb-2 mb-1 '>Enable multiple commerce scenarios</h1>
+                <p className='text-[0.5rem] md:text-[1rem]'>Web, Mobile, App, In store. <br />
+                Get Paid in the channels where you <br /> sell today and tomorrow.</p>
+            </div>
+            <div className='w-[25%] p-1 md:p-2 '>
+                <h1 className='text-[.6rem] md:text-xl font-bold md:mb-2 mb-1'>
+                    Reach millions of consumers
+                </h1>
+                <p className='text-[0.5rem] md:text-[1rem]' >
+                    Connect with our expansive network of shoppers around the world who love to use PayPal, Venmo, and pay Later.
+                </p>
+            </div>
+            <div className='w-[25%] p-1 md:p-2'>
+                <h1 className='text-[.6rem] md:text-xl font-bold md:mb-2 mb-1'>Vault customer payment info</h1>
+                <p className='text-[0.5rem] md:text-[1rem]' >Help drive conversion and make repeat purchases simple for your customers with secure data storage.</p>
+            </div>
+
+            <div className='w-[25%] p-1 md:p-2'>
+                <h1 className='text-[.6rem] md:text-xl font-bold md:mb-2 mb-1'>Optimize checkout experience</h1>
+                <p className='text-[0.5rem] md:text-[1rem]' >Control the look and feel of your chckout page with deop-in UI, hosted fields,and customizable smart payment buttons.</p>
+            </div>
         </div>
         </>
     )
