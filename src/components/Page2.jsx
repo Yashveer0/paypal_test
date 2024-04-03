@@ -51,7 +51,7 @@ export function Page2(props) {
 
         <div className=' flex items-center justify-between md:p-8 p-1 w-[100%] text-wrap md:mt-4 mt-1'>
             <div className='w-[25%] p-1 md:p-2'>
-                <h1 className='text-[.6rem] md:text-xl font-bold md:mb-2 mb-1 '>Enable multiple commerce scenarios</h1>
+                <h1 className='text-[.6rem] md:text-xl font-bold md:mb-2 mb-1 '>Enable multiple commerce  scenarios</h1>
                 <p className='text-[0.5rem] md:text-[1rem]'>Web, Mobile, App, In store. <br />
                 Get Paid in the channels where you <br /> sell today and tomorrow.</p>
             </div>
