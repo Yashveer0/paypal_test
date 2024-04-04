@@ -8,6 +8,7 @@ import { Page4 } from "./components/Page4";
 import { Page5 } from "./components/page5";
 import { Page6 } from "./components/Page6";
 import { Page7 } from "./components/Page7";
+import { Page8 } from "./components/Page8";
 
 
 
@@ -25,6 +26,7 @@ function App() {
       <Page5 />
       <Page6 />
       <Page7 />
+      <Page8 />
          
      </>
   )
