@@ -33,7 +33,7 @@ export function Page8(props) {
                     <p className='text-[.5rem] md:text-[1rem]'>See how our flexible and interoperable techology helps to simplify intergration.</p>
 
                     <button 
-                    className='md:py-2 py-0 px-2 md:px-6 md:mt-6 md:m-2  text-[.57rem] md:text-[1rem] bg-[#3C89BE] rounded-full text-white'>
+                    className='md:py-2 py-0 px-1 md:px-6 md:mt-6 md:m-2  text-[.4rem] md:text-[1rem] bg-[#3C89BE] rounded-full text-white'>
                         Visit Developer Docs</button>
                 </div>
 
