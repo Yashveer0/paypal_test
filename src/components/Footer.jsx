@@ -38,9 +38,7 @@ export function Footer(props) {
                         <ul className='flex items-center  gap-[.15rem] md:gap-4 font-bold text-[.4rem] md:text-[1rem] '>
                         <li>About</li>
                         <li>Newsroom</li>
-                        <li>Jobs</li>
-                        <li>Investor Relations</li>
-                        <li>Values in Action</li>
+                        <li>Jobs</li>                   
                         <li>Public Policy</li>
                         <li>Sitemap</li>
                         
@@ -51,7 +49,7 @@ export function Footer(props) {
                     <div className=''>
                     <ul className='flex items-center  gap-[.15rem] md:gap-4 font-bold text-[.4rem] md:text-[1rem] '>
                         <li className='text-gray-400'>© 1999-2022</li>
-                        <li>Accessiblity</li>
+                        
                         <li>Privacy</li>
                         <li>Cookies</li>
                         <li>Legal</li>
