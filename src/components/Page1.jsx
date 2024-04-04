@@ -1,6 +1,6 @@
 import React from 'react'
 import img1 from '../assets/code1.jpg'
-import img2 from '../assets/code.jpg'
+import img2 from '../assets/page2_img.jpg'
 import img3 from '../assets/ofc3.jpg'
 
 
@@ -14,7 +14,7 @@ export function Page1(props) {
                     Connect with a Payments Expert
                 </button>
                 <div className='  md:w-[100%] min-w-[100%] md:p-[6rem] p-[2rem] md:mt-[2rem] mt-[1rem]'>
-                    <img className='md:w-[500px] w-[100px]  drop-shadow-lg md:min-h-[370px] min-h-[140px] ' src={img3} alt="" />
+                    <img className='md:w-[500px] w-[100px]  drop-shadow-lg md:min-h-[370px] min-h-[130px] ' src={img3} alt="" />
 
 
                     <img className=' md:w-[500px] w-[100px] md:min-h-[400px] min-h-[150px] drop-shadow-lg  absolute md:top-[36rem] top-[20rem] md:left-[25rem] left-[8rem] md:rounded-[1rem] rounded-[.6rem]' src={img2} alt="" />
