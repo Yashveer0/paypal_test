@@ -2,7 +2,7 @@ import React from 'react'
 import { RiDoubleQuotesL } from "react-icons/ri";
 import office_img from '../assets/office_img.jpg'
 import { FaLongArrowAltRight } from "react-icons/fa";
-
+import { CgArrowTopRightR } from "react-icons/cg";
 export function Page7(props) {
     
 
@@ -39,6 +39,22 @@ export function Page7(props) {
                         <h1 className='text-[.5rem] md:text-xl mt-1 md:mt-2 text-[#3C89BE] inline-flex items-center'>Read the ebook  &nbsp; < FaLongArrowAltRight /></h1>
                     </div>
                 </div>
+
+
+
+
+                 <div className=' w-[100%] flex items-center justify-center md:p-[4rem] p-[1rem] md:border-t-2 border-t md:mt-[4rem] mt-[1rem] md:m-[4rem] m-[1rem]'>
+                    <div className=' w-[30%] md:p-4 p-2  text-white bg-[#191D58] '>
+                        <h1 className='w-[100%] md:text-[8rem] text-[3rem] flex items-center justify-center md:py-[6rem] py-[1rem] '><CgArrowTopRightR/></h1>
+                    </div>
+                    <div className='w-[70%] md:p-[2rem] p-[1rem] text-wrap'>
+                    <h1 className=' md:text-xl text-[0.7rem]  font-bold mb-1 md:mb-4 '>
+                        Report: Forrester economic impact analysis
+                    </h1>
+                    <p className='md:text-[1rem] text-[.5rem]' >Frrester concluded that our enterprise solutions deliver credit card and alternative payment processing services fast and at scale, while enabling high authorization rates.</p>
+                    <h1 className='text-[.5rem] md:text-xl mt-1 md:mt-2 text-[#3C89BE] inline-flex items-center'>Get the report  &nbsp; < FaLongArrowAltRight /></h1>
+                    </div>
+                 </div>
 
             </section>
         </>
